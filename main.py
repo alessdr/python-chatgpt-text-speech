@@ -4,7 +4,7 @@ import pyttsx3
 
 
 def call_chatgpt_api(quest):
-    auth_token = "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"
+    auth_token = "COLE_AQUI_SUA_API_KEY"
     header = {
         "Authorization": "Bearer " + auth_token
     }
