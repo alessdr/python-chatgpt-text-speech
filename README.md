@@ -1,4 +1,4 @@
-# Integrando Python com ChatGPT
+# Integrando Python com ChatGPT e Voz
 
 ### Descrição
 
